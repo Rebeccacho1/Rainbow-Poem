@@ -12,5 +12,5 @@ Unicorn
 Yellow
 Red
 These are the colour of the rainbow.
-And the unicorn
-Pony
+And the unicorn.
+Pony.
